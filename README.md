@@ -11,6 +11,7 @@ With the increasing popularity of deep learning in image processing, many learne
     compressai==1.1.8
     torchac==0.9.3
     typing-extensions==3.7.4.3
+(Note these are the module versions we used, but the code may/may-not work with other versions)
 
 ## How to run and verify (compress/decompress with) the model in the paper
 1) Edit the path to test dataset directory with parameter "test_data" in configs/llicti_A.json file
@@ -39,5 +40,6 @@ To compress/decompress with trained (or pretrained) model:
     title={Learned Lossless Image Compression Through Interpolation With Low Complexity},
     author={Kamisli, Fatih},
     journal={arXiv preprint arXiv:2212.13243},
-    year={2022}
+    year={2022},
+    url={https://arxiv.org/abs/2212.13243}
     }
