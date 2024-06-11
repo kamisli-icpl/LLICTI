@@ -37,9 +37,9 @@ To compress/decompress with trained (or pretrained) model:
     
 ## Citation
 @article{kamisli2023learned,
-    title={Learned Lossless Image Compression Through Interpolation With Low Complexity},
-    author={Kamisli, Fatih},
-    journal={IEEE Transactions on Circuits and Systems for Video Technology},
-    year={2023},
-    publisher={IEEE}
+  title={Learned Lossless Image Compression Through Interpolation With Low Complexity},
+  author={Kamisli, Fatih},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2023},
+  publisher={IEEE}
 }
