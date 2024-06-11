@@ -36,10 +36,10 @@ To compress/decompress with trained (or pretrained) model:
 3) Set "test_data" as the directory of test images.
     
 ## Citation
-    @article{kamisli2022learned,
-    title={Learned Lossless Image Compression Through Interpolation With Low Complexity},
-    author={Kamisli, Fatih},
-    journal={arXiv preprint arXiv:2212.13243},
-    year={2022},
-    url={https://arxiv.org/abs/2212.13243}
-    }
+@article{kamisli2023learned,
+  title={Learned Lossless Image Compression Through Interpolation With Low Complexity},
+  author={Kamisli, Fatih},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2023},
+  publisher={IEEE}
+}
